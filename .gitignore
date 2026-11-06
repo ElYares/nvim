@@ -1,0 +1,12 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+lazy-lock.json.pre-*
+lua/plugins/theme.lua.omarchy-symlink
+lua/plugins/notas-vault.lua
+lua/plugins/claudecode-local.lua
